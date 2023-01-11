@@ -1,0 +1,7 @@
+#Testing GitHub's Commit Function
+
+def greeting():
+  print("Hello World!")
+  return
+  
+greeting()
